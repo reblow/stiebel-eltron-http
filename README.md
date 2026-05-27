@@ -6,6 +6,7 @@ It is not meant to be a climate entity and thus cannot set the temperatures, cha
 
 This integration is designed to work out-of-the-box and auto-discover your Stiebel Eltron ISG device.
 
+It has also been reported to work with some Tecalor-branded ISG devices, like WPF13.
 
 ## Prerequisites
 - A [Stiebel Eltron heat pump](https://www.stiebel-eltron.com/en/home/products-solutions/renewables/heat_pump.html)
